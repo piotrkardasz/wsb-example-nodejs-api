@@ -9,7 +9,8 @@
   },
   "keywords": [
     "api",
-    "rest"
+    "rest",
+    "node"
   ],
   "author": "Piotr Kardasz",
   "license": "ISC",
